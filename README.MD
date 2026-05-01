@@ -50,7 +50,7 @@ The dataset includes order-level information such as customer demographics, prod
 
 ## 📸 Dashboard Preview
 
-![alt text](/screenshots/dashboard_preview.png)
+![alt text](/screenshots/dashboard_preview.jpg)
 
 ---
 
