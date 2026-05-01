@@ -52,6 +52,8 @@ The dataset includes order-level information such as customer demographics, prod
 
 ![alt text](/screenshots/dashboard_preview.jpg)
 
+![alt text](/screenshots/dashboard_preview-filtered.jpg)
+
 ---
 
 ## 🔍 Key Features
